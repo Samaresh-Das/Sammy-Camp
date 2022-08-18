@@ -1,5 +1,5 @@
 
-# Project Title
+# Sam's Campgrounds
 
 A full CRUD app which uses Express, Mongo, Mongoose, passport and EJS. Users can safely register
 and login, create new campgrounds, edit and delete their respective created campground.
