@@ -11,7 +11,7 @@ See the live version here
 
 ## Demo
 
-https://sammy-camp679.herokuapp.com/campgrounds
+https://sammy-camp679.herokuapp.com/
 
 
 ## 🔗 Links
